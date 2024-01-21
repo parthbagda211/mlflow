@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhruv/Downloads/MLOps/mlruns/0/dc4b692b5e634a8d88d55dd4600c73d0/artifacts
+end_time: 1705877062253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc4b692b5e634a8d88d55dd4600c73d0
+run_name: secretive-dove-297
+run_uuid: dc4b692b5e634a8d88d55dd4600c73d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705877058949
+status: 3
+tags: []
+user_id: dhruv

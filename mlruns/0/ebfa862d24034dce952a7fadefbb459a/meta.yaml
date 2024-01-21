@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhruv/Downloads/MLOps/mlruns/0/ebfa862d24034dce952a7fadefbb459a/artifacts
+end_time: 1705877044001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebfa862d24034dce952a7fadefbb459a
+run_name: salty-loon-233
+run_uuid: ebfa862d24034dce952a7fadefbb459a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705877040412
+status: 3
+tags: []
+user_id: dhruv
