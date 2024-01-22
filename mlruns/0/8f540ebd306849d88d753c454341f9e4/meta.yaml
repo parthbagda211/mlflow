@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhruv/Downloads/MLOps/mlruns/0/8f540ebd306849d88d753c454341f9e4/artifacts
+end_time: 1705945896139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f540ebd306849d88d753c454341f9e4
+run_name: shivering-mare-532
+run_uuid: 8f540ebd306849d88d753c454341f9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705945892411
+status: 3
+tags: []
+user_id: dhruv

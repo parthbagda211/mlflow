@@ -1,1 +1,7 @@
-/env
+/env/
+
+# Ignore Python environment configuration file
+/python_env.yaml
+
+# Ignore MLflow project file
+/MLproject
